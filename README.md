@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vipercodes18
 - 👀 I’m interested in Blockchain development and AI
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on Blockchain Projects
+- 💞️ I’m looking to collaborate on ML and Data science Projects
 - 📫 How to reach me on my email 0618singhabhishek@gmail.com
 
 <!---
